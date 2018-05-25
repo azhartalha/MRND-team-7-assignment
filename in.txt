@@ -1,0 +1,12 @@
+
+Interface: 10.2.130.164 --- 0x6
+  Internet Address      Physical Address      Type
+  10.2.128.1            00-1d-45-55-2c-3f     dynamic   
+  224.0.0.22            01-00-5e-00-00-16     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+
+Interface: 192.168.137.1 --- 0x12
+  Internet Address      Physical Address      Type
+  192.168.137.38        cc-2f-71-13-16-09     dynamic   
+  192.168.137.52        90-48-9a-60-63-bf     dynamic   
+  224.0.0.22            01-00-5e-00-00-16     static    
